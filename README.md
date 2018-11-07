@@ -9,7 +9,7 @@ Kotlin
 
 
 # Screenshot
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "http://www.reddit.com") 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png http://www.reddit.com) 
 ![http://www.reddit.com](https://res.cloudinary.com/wise4rmgod/image/upload/v1541602228/Screenshot_20181107-140957.png "Logo Title Text 1")
 
 
