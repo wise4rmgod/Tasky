@@ -18,4 +18,4 @@ Kotlin
 
 # Download Link
 ![](https://res.cloudinary.com/wise4rmgod/image/upload/v1541602227/google-play-store-logo.png) 
-<img src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541602227/google-play-store-logo.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="50" height="50" />
+<img src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541602227/google-play-store-logo.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="100" height="100" />
