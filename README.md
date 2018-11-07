@@ -20,4 +20,4 @@ Kotlin
 
 <a href="https://play.google.com/store/apps/details?id=com.developer.wise4rmgod.tasky
 " target="_blank">
-<img src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541602227/google-play-store-logo.png" data-canonical-src="https://firebase.google.com/docs/firestore/manage-data/add-data" width="250" height="150" /></a>
+<img src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541602227/google-play-store-logo.png" data-canonical-src="https://firebase.google.com/docs/firestore/manage-data/add-data" width="250" height="100" /></a>
