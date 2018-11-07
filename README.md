@@ -4,4 +4,8 @@ This is an android app that helps the user to add task for each day and the app 
 # Architecture Used
 MVP(Model View Presenter)
 
+# Programming Language Used
+Kotlin
+
+
 # Screenshot
