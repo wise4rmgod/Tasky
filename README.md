@@ -17,4 +17,4 @@ Kotlin
 
 
 # Download Link
-(https://res.cloudinary.com/wise4rmgod/image/upload/v1541602227/google-play-store-logo.png) 
+![](https://res.cloudinary.com/wise4rmgod/image/upload/v1541602227/google-play-store-logo.png) 
