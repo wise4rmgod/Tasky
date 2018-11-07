@@ -9,7 +9,8 @@ Kotlin
 
 
 # Screenshot
-[](https://res.cloudinary.com/wise4rmgod/image/upload/v1541602227/google-play-store-logo.png)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://res.cloudinary.com/wise4rmgod/image/upload/v1541602228/Screenshot_20181107-140957.png "Logo Title Text 1")
 
 
 
