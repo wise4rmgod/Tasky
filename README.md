@@ -10,7 +10,8 @@ Kotlin
 
 # Screenshot
 
-<img src= "https://res.cloudinary.com/wise4rmgod/image/upload/v1541602228/Screenshot_20181107-140957.png " width="300" height="300">
+<img src="https://res.cloudinary.com/wise4rmgod/image/upload/v1541602228/Screenshot_20181107-140957.png" width="100" height="100">
+<img src= "https://res.cloudinary.com/wise4rmgod/image/upload/v1541602228/Screenshot_20181107-140957.png" width="300" height="300">
 
 
 
